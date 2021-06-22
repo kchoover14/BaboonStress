@@ -26,3 +26,8 @@ The seventh script tests for trait size dependency via correlation on the final 
 The eighth script explores baboon data trends in FA with those reported in humans and tests hypotheses using the Levene test. The data for this test are derived from the PS Worksheet, which is included in this repository.
 
 The ninth batch of scripts generate the plots.
+
+## Data Files
+Raw data are suffixed by *EG data*
+Additional data files include the first for data processing prefixed by a 0 and then subsequent datasets after removal of bad data identified by processes in the scripts.
+
